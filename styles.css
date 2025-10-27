@@ -33,7 +33,7 @@ body {
   height: 240px;
   object-fit: cover;
   border-radius: 50%;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.525);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.525);
 }
 
 .banner p {
