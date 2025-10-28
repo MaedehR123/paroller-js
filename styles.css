@@ -226,7 +226,7 @@ main h2 {
 @media (max-width: 480px) {
 .bg-paroller {
   position: fixed;
-  inset: -1790px;
+  inset: 1790px;
   display: flex;
  }  
 
