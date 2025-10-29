@@ -228,24 +228,3 @@ main h2 {
 
 
 
-
-
-/* ==== موبایل: پارالاکس عمودی بدون خروج ==== */
-@media (max-width: 480px) {
-  .bg-paroller {
-    position: fixed;
-    top: -50%;        /* فقط بالا رو بزرگ کن */
-    left: 0;
-    width: 100%;
-    height: 200%;     /* دو برابر ارتفاع صفحه */
-    overflow: hidden;
-    z-index: -1;
-  }
-
-  .bg-paroller img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    opacity: 0.6;
-  }
-}
